@@ -9,8 +9,12 @@ body {
   line-height: 1.5;
   color: #606c71; }
 
+#link {
+  color: #fff;
+}
+
 a {
-  color: #ffffff;
+  color: green;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
